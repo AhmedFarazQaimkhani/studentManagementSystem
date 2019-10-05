@@ -1,0 +1,36 @@
+table {
+  width: 100%;
+}
+
+.mat-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+::ng-deep .mat-form-field-placeholder {
+  color: black !important
+}
+
+mat-card {
+  width: 100%
+}
+
+#detail th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #6200EE;
+  color: white;
+}
+
+#detail td,
+#detail th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#detail {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}

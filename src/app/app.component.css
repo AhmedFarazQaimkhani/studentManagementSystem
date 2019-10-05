@@ -1,0 +1,8 @@
+.container {
+  width: 100%;
+}
+
+/* active tab */
+::ng-deep .mat-tab-list .mat-tab-labels .mat-tab-label-active {
+  color: white
+}
